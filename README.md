@@ -12,6 +12,7 @@ O **MedGemma** é um modelo com termos de uso específicos. Antes de rodar o có
 1. Criar uma conta no [Hugging Face](https://huggingface.co/).
 2. Acessar a página do modelo [google/medgemma-4b-it](https://huggingface.co/google/medgemma-4b-it) e aceitar as condições de licença.
 3. Gerar um **Token de Acesso (HF Token)** nas suas configurações de perfil.
+4. Lembre-se: As respostas do modelo são geradas por IA e destinam-se a fins de demonstração.
 
 ## Instalação e execução
 
